@@ -1,14 +1,33 @@
-- 👋 Hi, I’m Deanne – a former nurse turned software developer, passionate about creating solutions that blend technology and real-world problem-solving.
-  
-- 💻 I’m currently focused on full-stack development with JavaScript, React, Java, and Spring Boot, but I’m always looking to expand my knowledge of new technologies!
+```
+ __  __     ______     __         __         ______    
+/\ \_\ \   /\  ___\   /\ \       /\ \       /\  __ \   
+\ \  __ \  \ \  __\   \ \ \____  \ \ \____  \ \ \/\ \  
+ \ \_\ \_\  \ \_____\  \ \_____\  \ \_____\  \ \_____\ 
+  \/_/\/_/   \/_____/   \/_____/   \/_____/   \/_____/ 
+                                                       
+```
+## About Me: 👩🏻‍💻
+I'm **Deanne**—a nurse (RN, BSN) turned full-stack developer.
+Though I initially pursued a practical career in healthcare, my love for technology (Xanga, anyone?) has always been a constant. Transitioning into software development has been one of the best decisions I've ever made.
 
-- 🌱 I love learning and tackling challenges, from frontend design to backend logic. I bring a unique perspective to tech, thanks to my background in healthcare, where precision and adaptability are key.
+As a **LaunchCode** graduate, I've built on my foundation in programming and am diving into more complex topics while building new projects. I'm excited to join a collaborative team where I can contribute, learn, and continue growing as a software engineer.
 
-- 🚀 Let's connect! I’m open to collaborations, learning opportunities, and innovative projects where I can contribute and grow.
+## Tools & Technologies: 💻
 
-- 📫 Feel free to reach out via [email](mailto:deannechae@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/deannechae/)!
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- ✨ Fun fact: My username skyoon26 stands for Suekyung (my Korean name), Yoon (my husband's last name), and the number 26 (my birthday)!
+## Connect With Me 🌐  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deannechae/)  
+[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=red)](mailto:deannechae@gmail.com)
 
 <!---
 skyoon26/skyoon26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
