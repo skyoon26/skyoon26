@@ -8,9 +8,9 @@
 ```
 ## About Me: 👩🏻‍💻
 I'm **Deanne**—a nurse (RN, BSN) turned full-stack developer.
-Though I initially pursued a practical career in healthcare, my love for technology (Xanga, anyone?) has always been a constant. Transitioning into software development has been one of the best decisions I've ever made.
+Though I initially pursued a practical career in healthcare, my love for technology has always been a constant (Xanga, anyone?). Transitioning into software development has been one of the best decisions I've made, and I hope to keep helping others—just in a new way!
 
-As a **LaunchCode** graduate, I've built on my foundation in programming and am diving into more complex topics while building new projects. I'm excited to join a collaborative team where I can contribute, learn, and continue growing as a software engineer.
+As a **LaunchCode** graduate, I've built on my foundation in programming and am diving into more complex topics while building new projects. I'm working toward joining a team where I can contribute, learn, and continue growing as a software engineer.
 
 ## Tools & Technologies: 💻
 
